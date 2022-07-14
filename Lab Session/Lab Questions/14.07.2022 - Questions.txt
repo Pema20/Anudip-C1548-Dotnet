@@ -1,0 +1,15 @@
+ 1.Write a program to compute grade of students using if else adder. 
+The grades are
+ assigned as followed: 
+
+a. marks<50 F
+
+b. 50=marks< 60 C 
+
+c. 60=marks<70 B
+
+d. 70=marks<80 B+
+
+e 80=marks<90 A
+
+f 90=mars= 100 A+
